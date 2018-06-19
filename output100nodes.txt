@@ -1,0 +1,13 @@
+Alg_Subgradient newdata\input100nodes.txt 50.0 15.0 0.0 NaN NaN 0.2 NaN NaN NaN
+Alg_Subgradient newdata\input100nodes.txt 500.0 10.0 0.0 0.33838709677419354 7.392491467576792 0.2 84.75709677419354 0.15129032258064515 0.1870967741935484
+Alg_Subgradient newdata\input100nodes.txt 100.0 10.0 0.0 0.43000000000000005 9.087719298245615 0.2 432.26 
+Alg_Subgradient newdata\input100nodes.txt 100.0 10.0 0.0 0.29000000000000004 8.380281690140846 0.2 885.31 
+Alg_Subgradient newdata\input100nodes.txt 200.0 10.0 0.0 0.33034914950760963 10.088235294117647 0.15000000000000002 81.34914950760967 
+Alg_Subgradient newdata\input100nodes.txt 200.0 10.0 0.0 0.32099907493061974 9.874659400544958 0.2 93.73450508788159 
+Alg_Subgradient newdata\input100nodes.txt 200.0 10.0 0.0 0.3151680290644868 9.851458885941645 0.2 76.5022706630336 
+Alg_Subgradient newdata\input100nodes.txt 100.0 5.0 0.0 0.010000000000000009 7.626262626262626 0.2 213.98 
+Alg_Subgradient newdata\input100nodes.txt 1000.0 5.0 0.0 0.00736235595390522 6.672686230248307 0.19999999999999998 79.05985915492958 
+Alg_Subgradient newdata\input100nodes.txt 1000.0 5.0 0.0 NaN NaN 0.05 NaN 
+Alg_Subgradient newdata\input100nodes.txt 1000.0 5.0 0.0 NaN NaN 0.05 NaN 
+Alg_Subgradient newdata\input100nodes.txt 1000.0 5.0 0.0 NaN NaN 0.05 NaN 
+Alg_Subgradient newdata\input100nodes.txt 10000.0 5.0 0.0 NaN NaN 0.05 NaN 

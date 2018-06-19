@@ -1,0 +1,11 @@
+#!/bin/bash
+#OAR -n NTM
+#OAR -O %jobid%.log
+#OAR -E %jobid%.log
+#OAR -p host in ('big1', 'big2', 'big3', 'big4','big5','big6','big7','big8','big9','big10','big11','big12','big13','big14','big15','big21','big22','big23','big24','big25','big26','big27','big28','big29','big30','big31')
+#OAR -l core=2,walltime=100:00:00
+
+ulimit -s unlimited
+java -jar ./ourHeuristics.jar 30 0.1 "node_B1.txt" 600 "node" 3
+
+exit $?

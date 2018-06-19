@@ -1,0 +1,12 @@
+#!/bin/bash
+#OAR -n NTM
+#OAR -O %jobid%.log
+#OAR -E %jobid%.log
+#OAR -p host in ('big1', 'big2', 'big3', 'big4','big5','big6','big7','big8','big9','big10','big11','big12','big13','big14','big15','big21','big22','big23','big24','big25','big26','big27','big28','big29')
+#OAR -l core=2,walltime=100:00:00
+
+
+ulimit -s unlimited
+java -jar ./GF.jar 50 0.1 "both_GF.txt" 400 "link" 1
+
+exit $?
